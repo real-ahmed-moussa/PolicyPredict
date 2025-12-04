@@ -47,8 +47,8 @@ PolicyPredict equips insurers with a **predictive framework to anticipate custom
 📦 PolicyPredict - Insurance Purchase Prediction with Deep Learning
  ┣ 📂 imgs
  ┣ 📜 PolicyPredict - Insurance Purchase Prediction with Deep Learning.ipynb    # Main notebook (data preprocessing, model training, evaluation)
- ┣ requirements.txt
- ┗ README.md
+ ┣ 📜 requirements.txt
+ ┗ 📜 README.md
 </pre>
 
 ---
