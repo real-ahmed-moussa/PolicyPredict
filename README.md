@@ -65,8 +65,8 @@ PolicyPredict equips insurers with a **predictive framework to anticipate custom
 ## 🛠️ Installation
 1️⃣ **Clone the Repository**
 <pre>
-git clone https://github.com/ahmedmoussa/Projects-Portfolio.git
-cd 'PolicyPredict - Insurance Purchase Prediction with Deep Learning'
+git clone https://github.com/ahmedmoussa/PolicyPredict.git
+cd PolicyPredict
 </pre>
 
 2️⃣ **Create Virtual Environment & Install Requirements**
